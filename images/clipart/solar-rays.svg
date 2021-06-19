@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    id="svg4763"
+    sodipodi:docname="solar-rays.svg"
+    viewBox="0 0 2771.9 2771.9"
+    version="1.1"
+    inkscape:version="0.47 r22583"
+  >
+  <defs
+      id="defs4765"
+    >
+    <linearGradient
+        id="linearGradient5486"
+      >
+      <stop
+          id="stop5488"
+          style="stop-color:#fa7220"
+          offset="0"
+      />
+      <stop
+          id="stop5490"
+          style="stop-color:#f3ee22;stop-opacity:.24088"
+          offset="1"
+      />
+    </linearGradient
+    >
+    <radialGradient
+        id="radialGradient5492"
+        xlink:href="#linearGradient5486"
+        gradientUnits="userSpaceOnUse"
+        cy="4067.5"
+        cx="-1323.7"
+        gradientTransform="translate(0 .000010268)"
+        r="1386.4"
+        inkscape:collect="always"
+    />
+    <filter
+        id="filter5498"
+        height="1.6857"
+        width="1.6857"
+        color-interpolation-filters="sRGB"
+        y="-.34286"
+        x="-.34286"
+        inkscape:collect="always"
+      >
+      <feGaussianBlur
+          id="feGaussianBlur5500"
+          stdDeviation="86.122445"
+          inkscape:collect="always"
+      />
+    </filter
+    >
+  </defs
+  >
+  <sodipodi:namedview
+      id="base"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      inkscape:window-y="24"
+      pagecolor="#ffffff"
+      inkscape:window-height="548"
+      inkscape:window-maximized="1"
+      inkscape:zoom="0.088388348"
+      inkscape:window-x="-1"
+      showgrid="false"
+      borderopacity="1.0"
+      inkscape:current-layer="layer1"
+      inkscape:cx="-867.2911"
+      inkscape:cy="1520.1076"
+      inkscape:window-width="1024"
+      inkscape:pageopacity="0.0"
+      inkscape:document-units="px"
+  />
+  <g
+      id="layer1"
+      inkscape:label="Layer 1"
+      inkscape:groupmode="layer"
+      transform="translate(1013.9 870.97)"
+    >
+    <g
+        id="g5502"
+      >
+      <g
+          id="g4962"
+          style="fill:url(#radialGradient5492)"
+          transform="translate(1695.8 -3552.5)"
+        >
+        <path
+            id="use4891"
+            style="fill:url(#radialGradient5492)"
+            d="m-1436.8 5453.4h226.27l-113.14-1436.8-113.14 1436.8zm0-2771.9h226.27l-113.14 1436.8-113.14-1436.8z"
+        />
+        <path
+            id="use4895"
+            style="fill:url(#radialGradient5492)"
+            d="m-1791.7 5376.9 218.56 58.564 262.6-1417.2-481.16 1358.6zm717.41-2677.4 218.56 58.564-481.16 1358.6 262.6-1417.2z"
+        />
+        <path
+            id="use4899"
+            style="fill:url(#radialGradient5492)"
+            d="m-2114.6 5211.1 195.96 113.14 620.44-1300.9-816.4 1187.8zm1385.9-2400.5 195.96 113.14-816.4 1187.8 620.44-1300.9z"
+        />
+        <path
+            id="use4903"
+            style="fill:url(#radialGradient5492)"
+            d="m-2383.7 4967.5 160 160 936-1096-1096 936zm1960-1960 160 160-1096 936 936-1096z"
+        />
+        <path
+            id="use4907"
+            style="fill:url(#radialGradient5492)"
+            d="m-2580.5 4662.5 113.14 195.96 1187.8-816.4-1300.9 620.44zm2400.5-1385.9 113.14 195.96-1300.9 620.44 1187.8-816.4z"
+        />
+        <path
+            id="use4911"
+            style="fill:url(#radialGradient5492)"
+            d="m-2691.7 4316.9 58.564 218.56 1358.6-481.16-1417.2 262.6zm2677.4-717.4 58.564 218.5-1417.2 262.6 1358.6-481.1z"
+        />
+        <path
+            id="use4915"
+            style="fill:url(#radialGradient5492)"
+            d="m-2709.6 3954.3v226.27l1436.8-113.14-1436.8-113.14zm2771.9 0v226.27l-1436.9-113.1 1436.8-113.2z"
+        />
+        <path
+            id="use4919"
+            style="fill:url(#radialGradient5492)"
+            d="m-2633.1 3599.5-58.564 218.56 1417.2 262.6-1358.6-481.16zm2677.4 717.4-58.564 218.6-1358.6-481.2 1417.2 262.6z"
+        />
+        <path
+            id="use4923"
+            style="fill:url(#radialGradient5492)"
+            d="m-2467.4 3276.5-113.14 195.96 1300.9 620.44-1187.8-816.4zm2400.5 1386-113.14 195.9-1187.8-816.4 1300.9 620.5z"
+        />
+        <path
+            id="use4927"
+            style="fill:url(#radialGradient5492)"
+            d="m-2223.7 3007.5-160 160 1096 936-936-1096zm1960 1960-160 160-936-1096 1096 936z"
+        />
+        <path
+            id="use4931"
+            style="fill:url(#radialGradient5492)"
+            d="m-1918.7 2810.6-195.96 113.14 816.4 1187.8-620.44-1300.9zm1385.9 2400.5-195.96 113.14-620.44-1300.9 816.4 1187.8z"
+        />
+        <path
+            id="use4935"
+            style="fill:url(#radialGradient5492)"
+            d="m-1573.1 2699.5-218.56 58.564 481.16 1358.6-262.6-1417.2zm717.41 2677.4-218.56 58.564-262.6-1417.2 481.16 1358.6z"
+        />
+      </g
+      >
+      <path
+          id="path4773"
+          sodipodi:rx="301.42856"
+          sodipodi:ry="301.42856"
+          style="stroke-linejoin:round;filter:url(#filter5498);stroke:#ffffff;stroke-linecap:round;stroke-width:3;fill:#f8f6ae"
+          sodipodi:type="arc"
+          d="m731.43 479.51c0 166.47-134.95 301.43-301.43 301.43-166.47 0-301.43-134.95-301.43-301.43 0-166.47 134.95-301.43 301.43-301.43 166.47 0 301.43 134.95 301.43 301.43z"
+          transform="translate(-57.953)"
+          sodipodi:cy="479.50504"
+          sodipodi:cx="430"
+      />
+    </g
+    >
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Golden Solar Rays</dc:title
+        >
+        <dc:date
+          >2010-10-19T22:00:13</dc:date
+        >
+        <dc:description
+        />
+        <dc:source
+          >https://openclipart.org/detail/91591/golden-solar-rays-by-missiridia</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >missiridia</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >radiate</rdf:li
+            >
+            <rdf:li
+              >rays</rdf:li
+            >
+            <rdf:li
+              >solar</rdf:li
+            >
+            <rdf:li
+              >sun</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

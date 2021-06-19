@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generator: Adobe Illustrator 10.0, SVG Export Plug-In . SVG Version: 3.0.0 Build 76)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns:x="http://ns.adobe.com/Extensibility/1.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" xmlns:graph="http://ns.adobe.com/Graphs/1.0/" i:viewOrigin="145 510.3896" i:rulerOrigin="0 0" i:pageBounds="0 841.8896 595.4453 0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" width="288" height="170.5" viewBox="0 0 288 170.5" overflow="visible" enable-background="new 0 0 288 170.5" xml:space="preserve">
+	<metadata>
+		<variableSets xmlns="http://ns.adobe.com/Variables/1.0/">
+			<variableSet varSetName="binding1" locked="none">
+				<variables/>
+				<v:sampleDataSets xmlns="http://ns.adobe.com/GenericCustomNamespace/1.0/" xmlns:v="http://ns.adobe.com/Variables/1.0/"/>
+			</variableSet>
+		</variableSets>
+		<sfw xmlns="http://ns.adobe.com/SaveForWeb/1.0/">
+			<slices/>
+			<sliceSourceBounds y="339.89" x="145" width="288" height="170.5" bottomLeftOrigin="true"/>
+		</sfw>
+	</metadata>
+	<g id="Layer_1" i:layer="yes" i:dimmedPercent="50" i:rgbTrio="#4F008000FFFF">
+		<path i:knockout="Off" fill="#FFFFFF" d="M288,170.5H0V0h288V170.5z"/>
+		<g>
+			<path i:knockout="Off" d="M200.172,87.902c-1.584,0-3.022-1.51-3.022-3.575c0-2.026,1.38-3.614,3.031-3.614     c1.613,0,3.022,1.568,3.022,3.614S201.794,87.902,200.172,87.902z M202.338,84.181c0-1.744-1.039-2.844-2.166-2.844     c-1.089,0-2.157,1.062-2.157,2.844c0,1.87,1.02,3.087,2.166,3.087C201.289,87.269,202.338,86.081,202.338,84.181z"/>
+			<path i:knockout="Off" d="M195.835,139.387h-0.864v-3.214h-3.313v3.214h-0.865v-6.76h0.865v2.951h3.313v-2.951h0.864V139.387z"/>
+			<path i:knockout="Off" d="M201.871,137.36c0.058,0.107,0.466,0.936,0.65,1.335h0.01v-6.068h0.758v6.76h-1.205l-2.38-4.733     c-0.059-0.107-0.467-0.936-0.651-1.335h-0.01v6.068h-0.758v-6.76h1.205L201.871,137.36z"/>
+			<path i:knockout="Off" d="M274.914,165.824c-1.584,0-3.022-1.51-3.022-3.574c0-2.026,1.38-3.613,3.031-3.613     c1.613,0,3.022,1.567,3.022,3.613C277.945,164.295,276.536,165.824,274.914,165.824z M277.08,162.104     c0-1.743-1.039-2.844-2.166-2.844c-1.089,0-2.157,1.062-2.157,2.844c0,1.87,1.02,3.088,2.166,3.088     C276.031,165.191,277.08,164.003,277.08,162.104z"/>
+			<path i:knockout="Off" d="M285.524,165.61h-0.864v-3.214h-3.313v3.214h-0.865v-6.76h0.865v2.951h3.313v-2.951h0.864V165.61z"/>
+			<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.9366" stroke-linecap="round" stroke-miterlimit="1" d="     M185.722,108.667h-29.897"/>
+			<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.9366" stroke-linecap="round" stroke-miterlimit="1" d="     M155.824,108.667l-14.948,25.942"/>
+			<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.9366" stroke-linecap="round" stroke-miterlimit="1" d="     M140.876,134.609h-29.897"/>
+			<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.9366" stroke-linecap="round" stroke-miterlimit="1" d="     M110.979,134.609L96.031,160.6"/>
+			<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.9366" stroke-linecap="round" stroke-miterlimit="1" d="     M96.031,160.6H66.135"/>
+			<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.9366" stroke-linecap="round" stroke-miterlimit="1" d="     M93.976,156.994H68.237"/>
+			<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.9366" stroke-linecap="round" stroke-miterlimit="1" d="     M66.135,160.6l-14.948-25.99"/>
+			<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.9366" stroke-linecap="round" stroke-miterlimit="1" d="     M51.187,134.609H21.29"/>
+			<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.9366" stroke-linecap="round" stroke-miterlimit="1" d="     M21.29,134.609L6.341,108.667"/>
+			<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.9366" stroke-linecap="round" stroke-miterlimit="1" d="     M23.392,131.051l-12.893-22.384"/>
+			<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.9366" stroke-linecap="round" stroke-miterlimit="1" d="     M6.341,108.667L21.29,82.724"/>
+			<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.9366" stroke-linecap="round" stroke-miterlimit="1" d="     M21.29,82.724L6.341,56.78"/>
+			<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.9366" stroke-linecap="round" stroke-miterlimit="1" d="     M6.341,56.78L21.29,30.79"/>
+			<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.9366" stroke-linecap="round" stroke-miterlimit="1" d="     M10.499,56.78l12.893-22.384"/>
+			<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.9366" stroke-linecap="round" stroke-miterlimit="1" d="     M21.29,30.79h29.897"/>
+			<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.9366" stroke-linecap="round" stroke-miterlimit="1" d="     M51.187,30.79L66.135,4.847"/>
+			<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.9366" stroke-linecap="round" stroke-miterlimit="1" d="     M66.135,4.847h29.896"/>
+			<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.9366" stroke-linecap="round" stroke-miterlimit="1" d="     M68.237,8.453h25.739"/>
+			<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.9366" stroke-linecap="round" stroke-miterlimit="1" d="     M96.031,4.847l14.948,25.943"/>
+			<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.9366" stroke-linecap="round" stroke-miterlimit="1" d="     M110.979,30.79h29.897"/>
+			<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.9366" stroke-linecap="round" stroke-miterlimit="1" d="     M140.876,30.79l14.948,25.99"/>
+			<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.9366" stroke-linecap="round" stroke-miterlimit="1" d="     M155.824,56.78h29.897"/>
+			<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.9366" stroke-linecap="round" stroke-miterlimit="1" d="     M185.722,56.78l14.948-25.99"/>
+			<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.9366" stroke-linecap="round" stroke-miterlimit="1" d="     M183.666,108.667l12.379-21.542"/>
+			<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.9366" stroke-linecap="round" stroke-miterlimit="1" d="     M186.796,110.446l12.379-21.495"/>
+			<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.9366" stroke-linecap="round" stroke-miterlimit="1" d="     M185.722,108.667l11.538,19.995"/>
+			<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.9366" stroke-linecap="round" stroke-miterlimit="1" d="     M230.566,134.609l14.948,25.99"/>
+			<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.9366" stroke-linecap="round" stroke-miterlimit="1" d="     M245.515,160.6h24.524"/>
+			<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.9366" stroke-linecap="round" stroke-miterlimit="1" d="     M205.527,134.609h25.039"/>
+		</g>
+	</g>
+</svg>

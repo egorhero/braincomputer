@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.0//EN'  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg version="1.1" viewBox="0 0 1200 1200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="t" x1="50%" x2="0%" y1="100%" y2="100%">
+   <stop stop-color="#1464c8" offset="0"/>
+   <stop stop-color="#5ac8fa" offset="1"/>
+  </linearGradient>
+  <linearGradient id="u" x1="50%" x2="0%" y1="100%" y2="100%">
+   <stop stop-color="#c81414" offset="0"/>
+   <stop stop-color="#fa6450" offset="1"/>
+  </linearGradient>
+  <linearGradient id="v" x1="50%" x2="0%" y1="100%" y2="100%">
+   <stop stop-color="#14c828" offset="0"/>
+   <stop stop-color="#5aff78" offset="1"/>
+  </linearGradient>
+  <g id="w">
+   <path d="m200 11.5v-23l-290.04-167.46-1e-3 297.92 19.919-11.5v-251.92z" fill="url(#t)" stroke-width="0"/>
+  </g>
+  <g id="z">
+   <path d="m200 20v-40l-282.68-163.21v269.42l34.642-20.005v-189.42z" fill="url(#t)" stroke-width="0"/>
+  </g>
+  <g id="ac">
+   <path d="m200 26.5v-53l-277.05-159.96v249.92l45.899-26.505v-143.92z" fill="url(#t)" stroke-width="0"/>
+  </g>
+  <g id="af">
+   <path d="m200 34v-68l-270.56-156.21 5e-3 227.42 58.89-34.005v-91.41z" fill="url(#t)" stroke-width="0"/>
+  </g>
+  <g id="x">
+   <path d="m200 11.5v-23l-290.04-167.46-1e-3 297.92 19.919-11.5v-251.92z" fill="url(#u)" stroke-width="0"/>
+  </g>
+  <g id="aa">
+   <path d="m200 20v-40l-282.68-163.21v269.42l34.642-20.005v-189.42z" fill="url(#u)" stroke-width="0"/>
+  </g>
+  <g id="ad">
+   <path d="m200 26.5v-53l-277.05-159.96v249.92l45.899-26.505v-143.92z" fill="url(#u)" stroke-width="0"/>
+  </g>
+  <g id="ag">
+   <path d="m200 34v-68l-270.56-156.21 5e-3 227.42 58.89-34.005v-91.41z" fill="url(#u)" stroke-width="0"/>
+  </g>
+  <g id="y">
+   <path d="m200 11.5v-23l-290.04-167.46-1e-3 297.92 19.919-11.5v-251.92z" fill="url(#v)" stroke-width="0"/>
+  </g>
+  <g id="ab">
+   <path d="m200 20v-40l-282.68-163.21v269.42l34.642-20.005v-189.42z" fill="url(#v)" stroke-width="0"/>
+  </g>
+  <g id="ae">
+   <path d="m200 26.5v-53l-277.05-159.96v249.92l45.899-26.505v-143.92z" fill="url(#v)" stroke-width="0"/>
+  </g>
+  <g id="ah">
+   <path d="m200 34v-68l-270.56-156.21 5e-3 227.42 58.89-34.005v-91.41z" fill="url(#v)" stroke-width="0"/>
+  </g>
+  <g id="ai">
+   <use transform="rotate(150) translate(4)" xlink:href="#w"/>
+   <use transform="rotate(-90) translate(4)" xlink:href="#x"/>
+   <use transform="rotate(30) translate(4)" xlink:href="#y"/>
+  </g>
+  <g id="aj">
+   <use transform="rotate(150) translate(5)" xlink:href="#z"/>
+   <use transform="rotate(-90) translate(5)" xlink:href="#aa"/>
+   <use transform="rotate(30) translate(5)" xlink:href="#ab"/>
+  </g>
+  <g id="ak">
+   <use transform="rotate(30) translate(5)" xlink:href="#ac"/>
+   <use transform="rotate(150) translate(5)" xlink:href="#ad"/>
+   <use transform="rotate(-90) translate(5)" xlink:href="#ae"/>
+  </g>
+  <g id="al">
+   <use transform="rotate(150) translate(5)" xlink:href="#af"/>
+   <use transform="rotate(-90) translate(5)" xlink:href="#ag"/>
+   <use transform="rotate(30) translate(5)" xlink:href="#ah"/>
+  </g>
+ </defs>
+ <rect width="1200" height="1200" fill="#fff" stroke-width="0"/>
+ <use transform="translate(600 400) scale(1.8)" xlink:href="#al"/>
+ <use transform="translate(200 1e3) scale(.9)" xlink:href="#ai"/>
+ <use transform="translate(600 1e3) scale(.9)" xlink:href="#aj"/>
+ <use transform="translate(1e3 1e3) scale(.9)" xlink:href="#ak"/>
+</svg>
